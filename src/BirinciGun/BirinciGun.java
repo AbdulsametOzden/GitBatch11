@@ -9,7 +9,7 @@ public class BirinciGun {
 		System.out.println("10:26 - 2. gun");
 		System.out.println("10:35 -Ikinci Gun");
 		System.out.println("11:05 - Ikinci Gun");
-		System.out.println("11:23 - github.com") 
+		System.out.println("11:23 - github.com"); 
 	}
 
 }
