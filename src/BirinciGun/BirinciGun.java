@@ -11,6 +11,7 @@ public class BirinciGun {
 		System.out.println("11:05 - Ikinci Gun");
 		System.out.println("11:23 - github.com"); 
 		System.out.println("ben buradan conflig beklemiyorum");
+		System.out.println("Localden yepyeni bir satir");
 		System.out.println("yepyeni bir satir");
 		System.out.println("10:26 - feature branch");
 		System.out.println("10:52 - feature branch iki");
