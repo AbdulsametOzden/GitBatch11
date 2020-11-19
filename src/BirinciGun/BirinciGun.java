@@ -16,6 +16,7 @@ public class BirinciGun {
 		System.out.println("10:26 - feature branch");
 		System.out.println("10:52 - feature branch iki");
 		System.out.println("tekrar branch");
+		System.out.println("tekrar branch iki");
 	}
 	
 
