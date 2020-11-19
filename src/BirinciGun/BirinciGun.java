@@ -22,6 +22,7 @@ public class BirinciGun {
 		System.out.println("tekrar branch");
 		System.out.println("tekrar branch iki");
 		System.out.println("tekrar master");
+		System.out.println("yeni bir satir 7:37");
 
 	}
 	
